@@ -7,7 +7,7 @@ body {
 header {
   display: flex;
   background: linear-gradient(to left, #0a3d44, transparent 70%);
-  border-bottom-radius: 20px;
+  border-radius: 20px;
   width: 90%;
   margin: auto;
   padding: 20px;
